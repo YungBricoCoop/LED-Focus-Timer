@@ -9,7 +9,7 @@ CRGB leds[NUM_LEDS];
 
 #define UPDATES_PER_SECOND 10
 #define COLOR_FADE_SPEED 1
-#define TIME_BETWEEN_STEP 1 //Time in minutes
+#define TIME_BETWEEN_STEP 3 //Time in minutes
 #define BLINK_NUMBER 20
 #define BLINK_DELAY 200
 
