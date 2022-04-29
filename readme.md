@@ -20,6 +20,8 @@ What you will need to build this project :
 
 ## 📐 Diagram
 
+![diagram](./readmeAssets/img/diagram.png)
+
 ## 🧊 3D Models
 
 - [Black Case](./readmeAssets/models/focusTimerCase.stl) (STL)
